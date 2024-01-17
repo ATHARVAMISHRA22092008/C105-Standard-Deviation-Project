@@ -1,1 +1,2 @@
-# C105-Standard-Deviation-Project
+# std_deviation
+project solution c105
